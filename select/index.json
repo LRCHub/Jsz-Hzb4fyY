@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "好きって、言えなかった",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-18T16:08:50.423739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "好きって、言えなかった",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_好きって、言えなかった_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "好きって、言えなかった (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_好きって、言えなかった_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "好きって、言えなかった",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_好きって、言えなかった_=LOVE.txt"
+    }
+  ]
+}
